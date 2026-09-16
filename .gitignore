@@ -1,0 +1,21 @@
+__pycache__/
+.pytest_cache/
+*.py[cod]
+*.pyo
+*.log
+
+# Raw or generated dataset archives
+data/
+datasets/
+*.parquet
+*.zip
+*.7z
+*.rar
+
+# Local environment and editor files
+.venv/
+venv/
+.env
+.DS_Store
+.idea/
+.vscode/
